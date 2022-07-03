@@ -1,0 +1,24 @@
+Enter the number of matrices
+5
+Enter the size of each matrix
+2 3
+3 4
+4 5
+5 6
+6 7
+The d matrix is 
+234567
+The minimum number of Multiplications required is  208
+The computation number matrix  
+0	24	64	124	208	
+0	0	60	150	276	
+0	0	0	120	288	
+0	0	0	0	210	
+0	0	0	0	0	
+The Solution number matrix  
+0	1	2	3	4	
+0	0	2	3	4	
+0	0	0	3	4	
+0	0	0	0	4	
+0	0	0	0	0	
+The optimal solution is ( ( ( (  A1  A2  )  A3  )  A4  )  A5  ) 
